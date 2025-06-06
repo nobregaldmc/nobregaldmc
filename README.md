@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas Nobrega Damacena 🎮<br>- 📚 Currently at sixth semester of Computer Engineering at the Federal University of Ceará <br>- 📖 Studying: Embedded Systems and Web-Development.<br>- 🚀 My Goal is to Become a Full Stack Developer</p>
+<p align="left">My name is Lucas Nobrega Damacena 🎮<br>- 📚 Currently at Seventh semester of Computer Engineering at the Federal University of Ceará <br>- 📖 Studying: Embedded Systems and Web-Development.<br>- 🚀 My Goal is to Become a Full Stack Developer</p>
 
 ###
 
